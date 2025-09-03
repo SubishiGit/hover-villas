@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect x="0" y="0" width="1600" height="1000" fill="#e8e8e8"/>
+  <polygon id="_1_" points="100,100 300,100 300,300 100,300" fill="none" stroke="#999"/>
+  <polygon id="_2_" points="350,100 550,100 550,300 350,300" fill="none" stroke="#999"/>
+  <polygon id="_Clubhouse_" points="100,350 550,350 550,600 100,600" fill="none" stroke="#999"/>
+</svg>
